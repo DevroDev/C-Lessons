@@ -1,0 +1,10 @@
+D:\My file\C# coding\button1\button1\bin\Release\button1.exe
+D:\My file\C# coding\button1\button1\bin\Release\button1.pdb
+D:\My file\C# coding\button1\button1\obj\x86\Release\button1.exe
+D:\My file\C# coding\button1\button1\obj\x86\Release\button1.pdb
+D:\My Codes\C# coding\button1\button1\bin\Release\button1.exe
+D:\My Codes\C# coding\button1\button1\bin\Release\button1.pdb
+D:\My Codes\C# coding\button1\button1\obj\x86\Release\button1.exe
+D:\My Codes\C# coding\button1\button1\obj\x86\Release\button1.pdb
+D:\My Codes\C# coding\button1\button1\obj\x86\Release\MyfirstApp.resources
+D:\My Codes\C# coding\button1\button1\obj\x86\Release\button1.csproj.GenerateResource.Cache

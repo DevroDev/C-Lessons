@@ -1,0 +1,4 @@
+D:\My Codes\C# coding\calculator\calculator\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+D:\My Codes\C# coding\calculator\calculator\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\My Codes\C# coding\calculator\calculator\obj\x86\Release\calculator.csproj.GenerateResource.Cache
+D:\My Codes\C# coding\calculator\calculator\obj\x86\Release\calculator.csprojResolveAssemblyReference.cache

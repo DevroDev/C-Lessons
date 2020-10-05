@@ -1,0 +1,7 @@
+D:\My file\C# coding\app1\app1\bin\Release\app1.exe
+D:\My file\C# coding\app1\app1\bin\Release\app1.pdb
+D:\My file\C# coding\app1\app1\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+D:\My file\C# coding\app1\app1\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\My file\C# coding\app1\app1\obj\x86\Release\app1.csproj.GenerateResource.Cache
+D:\My file\C# coding\app1\app1\obj\x86\Release\app1.exe
+D:\My file\C# coding\app1\app1\obj\x86\Release\app1.pdb

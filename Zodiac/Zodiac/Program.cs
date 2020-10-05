@@ -1,0 +1,18 @@
+﻿using System;
+using System.Drawing;
+using System.Windows.Forms;
+public class Zodiac:Form{private CheckBox cbAreis;
+    private CheckBox cbTaurus;
+    private CheckBox cbGemini;
+    private CheckBox cbCancer;
+    private CheckBox cbLeo;
+    private CheckBox cbVirgo;
+    private CheckBox cbLibra;
+    private CheckBox cbScorpio;
+    private CheckBox cbSagittarius;
+    private CheckBox cbCapricorn;
+    private CheckBox cbAqurius;
+    private CheckBox cbPisces;
+    private Label lbltext;
+    private Button btnDisplay;
+    private Button btnClose;

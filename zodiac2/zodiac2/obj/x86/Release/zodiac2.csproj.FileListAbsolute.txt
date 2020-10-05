@@ -1,0 +1,4 @@
+D:\My Codes\C# coding\zodiac2\zodiac2\bin\Release\zodiac2.exe
+D:\My Codes\C# coding\zodiac2\zodiac2\bin\Release\zodiac2.pdb
+D:\My Codes\C# coding\zodiac2\zodiac2\obj\x86\Release\zodiac2.exe
+D:\My Codes\C# coding\zodiac2\zodiac2\obj\x86\Release\zodiac2.pdb

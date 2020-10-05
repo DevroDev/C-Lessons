@@ -1,0 +1,4 @@
+D:\My file\C# coding\eg2\eg2\bin\Debug\eg2.exe
+D:\My file\C# coding\eg2\eg2\bin\Debug\eg2.pdb
+D:\My file\C# coding\eg2\eg2\obj\x86\Debug\eg2.exe
+D:\My file\C# coding\eg2\eg2\obj\x86\Debug\eg2.pdb

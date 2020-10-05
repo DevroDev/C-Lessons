@@ -1,0 +1,6 @@
+D:\My file\C# coding\Icon\Icon\bin\Debug\Icon.exe
+D:\My file\C# coding\Icon\Icon\bin\Debug\Icon.pdb
+D:\My file\C# coding\Icon\Icon\obj\x86\Debug\Icon.exe
+D:\My file\C# coding\Icon\Icon\obj\x86\Debug\Icon.pdb
+D:\My Codes\C# coding\Icon\Icon\obj\x86\Debug\Icon.exe
+D:\My Codes\C# coding\Icon\Icon\obj\x86\Debug\Icon.pdb

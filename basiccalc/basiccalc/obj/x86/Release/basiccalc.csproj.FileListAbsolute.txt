@@ -1,0 +1,11 @@
+D:\My file\C# coding\basiccalc\basiccalc\bin\Release\basiccalc.exe
+D:\My file\C# coding\basiccalc\basiccalc\bin\Release\basiccalc.pdb
+D:\My file\C# coding\basiccalc\basiccalc\obj\x86\Release\basiccalc.exe
+D:\My file\C# coding\basiccalc\basiccalc\obj\x86\Release\basiccalc.pdb
+D:\My Codes\C# coding\basiccalc\basiccalc\bin\Release\basiccalc.exe
+D:\My Codes\C# coding\basiccalc\basiccalc\bin\Release\basiccalc.pdb
+D:\My Codes\C# coding\basiccalc\basiccalc\obj\x86\Release\basiccalc.csprojResolveAssemblyReference.cache
+D:\My Codes\C# coding\basiccalc\basiccalc\obj\x86\Release\basiccalc.exe
+D:\My Codes\C# coding\basiccalc\basiccalc\obj\x86\Release\basiccalc.pdb
+D:\My Codes\C# coding\basiccalc\basiccalc\obj\x86\Release\BasicCalculator.resources
+D:\My Codes\C# coding\basiccalc\basiccalc\obj\x86\Release\basiccalc.csproj.GenerateResource.Cache
